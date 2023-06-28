@@ -6,7 +6,7 @@ Generating images from scene graphs using conditional control of diffusion model
 
 # Info
 
-- Right now we use a modified version of sg2im for scene layout generation
+- Right now we use a modified version of [sg2im](https://github.com/google/sg2im) for scene layout generation
 - Scene graphs are stored in data.json
 - Scene layout generation (bounding boxes and semantic maps) is done in prepare.ipynb
 - ControlNet.ipynb creates images from semantic maps
