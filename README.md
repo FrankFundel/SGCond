@@ -2,6 +2,8 @@
 
 Generating images from scene graphs using conditional control of diffusion models.
 
+![Header](header.png "Title")
+
 # Info
 
 - Right now we use a modified version of sg2im for scene layout generation
