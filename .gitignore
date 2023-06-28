@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+coco
+diffusers
+env
+
+*.pth
+*.pt
+*.swp
+*.pyc
+*.DS_Store
